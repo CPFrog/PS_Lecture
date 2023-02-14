@@ -1,0 +1,4 @@
+nCr = n! ÷ ((n-r)! × r!) = nPr ÷ r!
+nCr = n-1Cr-1 + n-1Cr --> 파스칼의 삼각형에서 많이 사용!
+
+nPr = n! ÷ (n-r)! = nCr * r!
